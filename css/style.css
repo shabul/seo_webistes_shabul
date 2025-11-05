@@ -1270,6 +1270,48 @@ footer .credits a {
   color: #0056b3;
   text-decoration: underline;
 }
+
+.video-shorts-row {
+  margin-bottom: 3rem;
+  row-gap: 2rem;
+}
+
+.shorts-card {
+  background: #fff;
+  padding: 1.5rem;
+  border-radius: 8px;
+  box-shadow: 0 13px 8px -10px rgba(0, 0, 0, 0.1);
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+}
+
+.shorts-title {
+  font-size: 1.1rem;
+  font-weight: 600;
+  text-align: center;
+  margin-bottom: 0;
+}
+
+.shorts-frame {
+  position: relative;
+  width: 100%;
+  padding-bottom: 177.78%;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 10px 20px -15px rgba(0, 0, 0, 0.4);
+}
+
+.shorts-frame iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+  border-radius: 12px;
+}
 }
 
 @media (min-width: 992px) {
