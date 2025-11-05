@@ -1256,24 +1256,6 @@ footer .credits a {
   min-width: 180px;
 }
 
-.for-recruiters-btn {
-  background-color: #000;
-  color: #fff;
-  border: 1px solid #000;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  gap: 0.5rem;
-}
-
-.for-recruiters-btn:hover,
-.for-recruiters-btn:focus {
-  color: #fff;
-  background-color: #111;
-  border-color: #111;
-  text-decoration: none;
-}
-
 .footer-link {
   margin-bottom: 0.5rem;
 }
