@@ -1237,13 +1237,57 @@ footer .credits a {
     padding: 3rem;
   }
 
-  .blog-wrapper .article-title {
-    font-size: 1.9rem;
-  }
+.blog-wrapper .article-title {
+  font-size: 1.9rem;
+}
 
-  .box-comments .list-comments .comment-author {
-    font-size: 1.5rem;
-  }
+.box-comments .list-comments .comment-author {
+  font-size: 1.5rem;
+}
+
+.intro-cta {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.intro-cta .btn {
+  min-width: 180px;
+}
+
+.for-recruiters-btn {
+  background-color: #000;
+  color: #fff;
+  border: 1px solid #000;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+}
+
+.for-recruiters-btn:hover,
+.for-recruiters-btn:focus {
+  color: #fff;
+  background-color: #111;
+  border-color: #111;
+  text-decoration: none;
+}
+
+.footer-link {
+  margin-bottom: 0.5rem;
+}
+
+.footer-link a {
+  color: #0078ff;
+  font-weight: 500;
+}
+
+.footer-link a:hover,
+.footer-link a:focus {
+  color: #0056b3;
+  text-decoration: underline;
+}
 }
 
 @media (min-width: 992px) {
