@@ -35,6 +35,9 @@ A single-page portfolio built from the BootstrapMade DevFolio template and custo
 
 The site is static and can be deployed to any static host (GitHub Pages, Netlify, Amazon S3 + CloudFront, etc.). Upload the contents of the repository as-is and ensure the `img/`, `css/`, `js/`, `lib/`, and `contactform/` directories are preserved.
 
+## About Shabul
+Built by Shabul. Say hey on [LinkedIn](https://www.linkedin.com/in/shabul/) or browse more at [shabul.github.io](https://shabul.github.io/). If you dig the site, toss a star or follow [@shabul](https://github.com/shabul) for more experiments.
+
 ## Attribution
 
 - Base template: [DevFolio](https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/) by BootstrapMade (MIT license).
