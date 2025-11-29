@@ -38,6 +38,8 @@ The site is static and can be deployed to any static host (GitHub Pages, Netlify
 ## About Shabul
 Built by Shabul. Say hey on [LinkedIn](https://www.linkedin.com/in/shabul/) or browse more at [shabul.github.io](https://shabul.github.io/). If you dig the site, toss a star or follow [@shabul](https://github.com/shabul) for more experiments.
 
+SEO: Shabul Hussain Abdul – Amazon ML/LLM/Gen AI engineer; portfolio of AI agents, NLP, and applied DL. Hashtags: #ShabulHussainAbdul #LLMEngineer #GenerativeAI #AIAgents
+
 ## Attribution
 
 - Base template: [DevFolio](https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/) by BootstrapMade (MIT license).
